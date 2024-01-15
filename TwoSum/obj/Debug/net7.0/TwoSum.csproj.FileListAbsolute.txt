@@ -1,0 +1,15 @@
+d:\Projects\TopSWE\TwoSum\bin\Debug\net7.0\TwoSum.exe
+D:\Projects\TopSWE\TwoSum\bin\Debug\net7.0\TwoSum.deps.json
+D:\Projects\TopSWE\TwoSum\bin\Debug\net7.0\TwoSum.runtimeconfig.json
+d:\Projects\TopSWE\TwoSum\bin\Debug\net7.0\TwoSum.dll
+d:\Projects\TopSWE\TwoSum\bin\Debug\net7.0\TwoSum.pdb
+d:\Projects\TopSWE\TwoSum\obj\Debug\net7.0\TwoSum.csproj.AssemblyReference.cache
+d:\Projects\TopSWE\TwoSum\obj\Debug\net7.0\TwoSum.GeneratedMSBuildEditorConfig.editorconfig
+d:\Projects\TopSWE\TwoSum\obj\Debug\net7.0\TwoSum.AssemblyInfoInputs.cache
+d:\Projects\TopSWE\TwoSum\obj\Debug\net7.0\TwoSum.AssemblyInfo.cs
+d:\Projects\TopSWE\TwoSum\obj\Debug\net7.0\TwoSum.csproj.CoreCompileInputs.cache
+d:\Projects\TopSWE\TwoSum\obj\Debug\net7.0\TwoSum.dll
+d:\Projects\TopSWE\TwoSum\obj\Debug\net7.0\refint\TwoSum.dll
+d:\Projects\TopSWE\TwoSum\obj\Debug\net7.0\TwoSum.pdb
+D:\Projects\TopSWE\TwoSum\obj\Debug\net7.0\TwoSum.genruntimeconfig.cache
+D:\Projects\TopSWE\TwoSum\obj\Debug\net7.0\ref\TwoSum.dll

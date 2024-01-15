@@ -1,0 +1,15 @@
+D:\Projects\TopSWE\Valid Anagram\bin\Debug\net7.0\Valid Anagram.exe
+D:\Projects\TopSWE\Valid Anagram\bin\Debug\net7.0\Valid Anagram.deps.json
+D:\Projects\TopSWE\Valid Anagram\bin\Debug\net7.0\Valid Anagram.runtimeconfig.json
+D:\Projects\TopSWE\Valid Anagram\bin\Debug\net7.0\Valid Anagram.dll
+D:\Projects\TopSWE\Valid Anagram\bin\Debug\net7.0\Valid Anagram.pdb
+D:\Projects\TopSWE\Valid Anagram\obj\Debug\net7.0\Valid Anagram.csproj.AssemblyReference.cache
+D:\Projects\TopSWE\Valid Anagram\obj\Debug\net7.0\Valid Anagram.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\TopSWE\Valid Anagram\obj\Debug\net7.0\Valid Anagram.AssemblyInfoInputs.cache
+D:\Projects\TopSWE\Valid Anagram\obj\Debug\net7.0\Valid Anagram.AssemblyInfo.cs
+D:\Projects\TopSWE\Valid Anagram\obj\Debug\net7.0\Valid Anagram.csproj.CoreCompileInputs.cache
+D:\Projects\TopSWE\Valid Anagram\obj\Debug\net7.0\Valid Anagram.dll
+D:\Projects\TopSWE\Valid Anagram\obj\Debug\net7.0\refint\Valid Anagram.dll
+D:\Projects\TopSWE\Valid Anagram\obj\Debug\net7.0\Valid Anagram.pdb
+D:\Projects\TopSWE\Valid Anagram\obj\Debug\net7.0\Valid Anagram.genruntimeconfig.cache
+D:\Projects\TopSWE\Valid Anagram\obj\Debug\net7.0\ref\Valid Anagram.dll
