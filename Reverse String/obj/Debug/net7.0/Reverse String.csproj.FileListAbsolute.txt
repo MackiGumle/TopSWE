@@ -1,0 +1,15 @@
+d:\Projects\TopSWE\Reverse String\bin\Debug\net7.0\Reverse String.exe
+d:\Projects\TopSWE\Reverse String\bin\Debug\net7.0\Reverse String.deps.json
+d:\Projects\TopSWE\Reverse String\bin\Debug\net7.0\Reverse String.runtimeconfig.json
+d:\Projects\TopSWE\Reverse String\bin\Debug\net7.0\Reverse String.dll
+d:\Projects\TopSWE\Reverse String\bin\Debug\net7.0\Reverse String.pdb
+d:\Projects\TopSWE\Reverse String\obj\Debug\net7.0\Reverse String.csproj.AssemblyReference.cache
+d:\Projects\TopSWE\Reverse String\obj\Debug\net7.0\Reverse String.GeneratedMSBuildEditorConfig.editorconfig
+d:\Projects\TopSWE\Reverse String\obj\Debug\net7.0\Reverse String.AssemblyInfoInputs.cache
+d:\Projects\TopSWE\Reverse String\obj\Debug\net7.0\Reverse String.AssemblyInfo.cs
+d:\Projects\TopSWE\Reverse String\obj\Debug\net7.0\Reverse String.csproj.CoreCompileInputs.cache
+d:\Projects\TopSWE\Reverse String\obj\Debug\net7.0\Reverse String.dll
+d:\Projects\TopSWE\Reverse String\obj\Debug\net7.0\refint\Reverse String.dll
+d:\Projects\TopSWE\Reverse String\obj\Debug\net7.0\Reverse String.pdb
+d:\Projects\TopSWE\Reverse String\obj\Debug\net7.0\Reverse String.genruntimeconfig.cache
+d:\Projects\TopSWE\Reverse String\obj\Debug\net7.0\ref\Reverse String.dll

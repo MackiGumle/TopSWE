@@ -11,20 +11,10 @@ class Program
             if (s.Length != t.Length)
                 return false;
 
-            int sum = 0;
-
-            foreach (var character in s)
-                sum += character;
-
-            int sum2 = 0;
-
-            foreach (var character in t)
-                sum2 += character;
-
-            if(sum == sum2)
-                return true;
-
-            return false;
+            string ss = String.Concat(s.OrderBy(c => c));
+            string ts = String.Concat(t.OrderBy(c => c));
+            
+            return ss.Equals(ts);
         }
     }
 

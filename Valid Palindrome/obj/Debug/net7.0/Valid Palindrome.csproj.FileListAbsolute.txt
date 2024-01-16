@@ -1,0 +1,15 @@
+d:\Projects\TopSWE\Valid Palindrome\bin\Debug\net7.0\Valid Palindrome.exe
+d:\Projects\TopSWE\Valid Palindrome\bin\Debug\net7.0\Valid Palindrome.deps.json
+d:\Projects\TopSWE\Valid Palindrome\bin\Debug\net7.0\Valid Palindrome.runtimeconfig.json
+d:\Projects\TopSWE\Valid Palindrome\bin\Debug\net7.0\Valid Palindrome.dll
+d:\Projects\TopSWE\Valid Palindrome\bin\Debug\net7.0\Valid Palindrome.pdb
+d:\Projects\TopSWE\Valid Palindrome\obj\Debug\net7.0\Valid Palindrome.csproj.AssemblyReference.cache
+d:\Projects\TopSWE\Valid Palindrome\obj\Debug\net7.0\Valid Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+d:\Projects\TopSWE\Valid Palindrome\obj\Debug\net7.0\Valid Palindrome.AssemblyInfoInputs.cache
+d:\Projects\TopSWE\Valid Palindrome\obj\Debug\net7.0\Valid Palindrome.AssemblyInfo.cs
+d:\Projects\TopSWE\Valid Palindrome\obj\Debug\net7.0\Valid Palindrome.csproj.CoreCompileInputs.cache
+d:\Projects\TopSWE\Valid Palindrome\obj\Debug\net7.0\Valid Palindrome.dll
+d:\Projects\TopSWE\Valid Palindrome\obj\Debug\net7.0\refint\Valid Palindrome.dll
+d:\Projects\TopSWE\Valid Palindrome\obj\Debug\net7.0\Valid Palindrome.pdb
+d:\Projects\TopSWE\Valid Palindrome\obj\Debug\net7.0\Valid Palindrome.genruntimeconfig.cache
+d:\Projects\TopSWE\Valid Palindrome\obj\Debug\net7.0\ref\Valid Palindrome.dll

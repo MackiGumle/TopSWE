@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Projects\\TopSWE\\TwoSum\\TwoSum.csproj": {}
+    "D:\\Projects\\TopSWE\\TwoSum\\TwoSum.csproj": {}
   },
   "projects": {
-    "d:\\Projects\\TopSWE\\TwoSum\\TwoSum.csproj": {
+    "D:\\Projects\\TopSWE\\TwoSum\\TwoSum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Projects\\TopSWE\\TwoSum\\TwoSum.csproj",
+        "projectUniqueName": "D:\\Projects\\TopSWE\\TwoSum\\TwoSum.csproj",
         "projectName": "TwoSum",
-        "projectPath": "d:\\Projects\\TopSWE\\TwoSum\\TwoSum.csproj",
+        "projectPath": "D:\\Projects\\TopSWE\\TwoSum\\TwoSum.csproj",
         "packagesPath": "C:\\Users\\maste\\.nuget\\packages\\",
-        "outputPath": "d:\\Projects\\TopSWE\\TwoSum\\obj\\",
+        "outputPath": "D:\\Projects\\TopSWE\\TwoSum\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

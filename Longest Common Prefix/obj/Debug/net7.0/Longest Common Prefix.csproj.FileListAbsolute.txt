@@ -1,0 +1,15 @@
+d:\Projects\TopSWE\Longest Common Prefix\bin\Debug\net7.0\Longest Common Prefix.exe
+d:\Projects\TopSWE\Longest Common Prefix\bin\Debug\net7.0\Longest Common Prefix.deps.json
+d:\Projects\TopSWE\Longest Common Prefix\bin\Debug\net7.0\Longest Common Prefix.runtimeconfig.json
+d:\Projects\TopSWE\Longest Common Prefix\bin\Debug\net7.0\Longest Common Prefix.dll
+d:\Projects\TopSWE\Longest Common Prefix\bin\Debug\net7.0\Longest Common Prefix.pdb
+d:\Projects\TopSWE\Longest Common Prefix\obj\Debug\net7.0\Longest Common Prefix.csproj.AssemblyReference.cache
+d:\Projects\TopSWE\Longest Common Prefix\obj\Debug\net7.0\Longest Common Prefix.GeneratedMSBuildEditorConfig.editorconfig
+d:\Projects\TopSWE\Longest Common Prefix\obj\Debug\net7.0\Longest Common Prefix.AssemblyInfoInputs.cache
+d:\Projects\TopSWE\Longest Common Prefix\obj\Debug\net7.0\Longest Common Prefix.AssemblyInfo.cs
+d:\Projects\TopSWE\Longest Common Prefix\obj\Debug\net7.0\Longest Common Prefix.csproj.CoreCompileInputs.cache
+d:\Projects\TopSWE\Longest Common Prefix\obj\Debug\net7.0\Longest Common Prefix.dll
+d:\Projects\TopSWE\Longest Common Prefix\obj\Debug\net7.0\refint\Longest Common Prefix.dll
+d:\Projects\TopSWE\Longest Common Prefix\obj\Debug\net7.0\Longest Common Prefix.pdb
+d:\Projects\TopSWE\Longest Common Prefix\obj\Debug\net7.0\Longest Common Prefix.genruntimeconfig.cache
+d:\Projects\TopSWE\Longest Common Prefix\obj\Debug\net7.0\ref\Longest Common Prefix.dll
