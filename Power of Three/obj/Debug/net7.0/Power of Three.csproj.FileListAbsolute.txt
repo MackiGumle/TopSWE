@@ -1,0 +1,15 @@
+d:\Projects\TopSWE\Power of Three\bin\Debug\net7.0\Power of Three.exe
+d:\Projects\TopSWE\Power of Three\bin\Debug\net7.0\Power of Three.deps.json
+d:\Projects\TopSWE\Power of Three\bin\Debug\net7.0\Power of Three.runtimeconfig.json
+d:\Projects\TopSWE\Power of Three\bin\Debug\net7.0\Power of Three.dll
+d:\Projects\TopSWE\Power of Three\bin\Debug\net7.0\Power of Three.pdb
+d:\Projects\TopSWE\Power of Three\obj\Debug\net7.0\Power of Three.csproj.AssemblyReference.cache
+d:\Projects\TopSWE\Power of Three\obj\Debug\net7.0\Power of Three.GeneratedMSBuildEditorConfig.editorconfig
+d:\Projects\TopSWE\Power of Three\obj\Debug\net7.0\Power of Three.AssemblyInfoInputs.cache
+d:\Projects\TopSWE\Power of Three\obj\Debug\net7.0\Power of Three.AssemblyInfo.cs
+d:\Projects\TopSWE\Power of Three\obj\Debug\net7.0\Power of Three.csproj.CoreCompileInputs.cache
+d:\Projects\TopSWE\Power of Three\obj\Debug\net7.0\Power of Three.dll
+d:\Projects\TopSWE\Power of Three\obj\Debug\net7.0\refint\Power of Three.dll
+d:\Projects\TopSWE\Power of Three\obj\Debug\net7.0\Power of Three.pdb
+d:\Projects\TopSWE\Power of Three\obj\Debug\net7.0\Power of Three.genruntimeconfig.cache
+d:\Projects\TopSWE\Power of Three\obj\Debug\net7.0\ref\Power of Three.dll
