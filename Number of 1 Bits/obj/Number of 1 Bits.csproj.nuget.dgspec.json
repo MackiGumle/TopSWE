@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\TopSWE\\Longest Common Prefix\\Longest Common Prefix.csproj": {}
+    "D:\\Projects\\TopSWE\\Number of 1 Bits\\Number of 1 Bits.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\TopSWE\\Longest Common Prefix\\Longest Common Prefix.csproj": {
+    "D:\\Projects\\TopSWE\\Number of 1 Bits\\Number of 1 Bits.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\TopSWE\\Longest Common Prefix\\Longest Common Prefix.csproj",
-        "projectName": "Longest Common Prefix",
-        "projectPath": "D:\\Projects\\TopSWE\\Longest Common Prefix\\Longest Common Prefix.csproj",
+        "projectUniqueName": "D:\\Projects\\TopSWE\\Number of 1 Bits\\Number of 1 Bits.csproj",
+        "projectName": "Number of 1 Bits",
+        "projectPath": "D:\\Projects\\TopSWE\\Number of 1 Bits\\Number of 1 Bits.csproj",
         "packagesPath": "C:\\Users\\maste\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\TopSWE\\Longest Common Prefix\\obj\\",
+        "outputPath": "D:\\Projects\\TopSWE\\Number of 1 Bits\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

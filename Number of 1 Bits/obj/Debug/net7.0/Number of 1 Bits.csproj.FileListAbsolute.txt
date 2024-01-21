@@ -1,0 +1,15 @@
+d:\Projects\TopSWE\Number of 1 Bits\bin\Debug\net7.0\Number of 1 Bits.exe
+d:\Projects\TopSWE\Number of 1 Bits\bin\Debug\net7.0\Number of 1 Bits.deps.json
+d:\Projects\TopSWE\Number of 1 Bits\bin\Debug\net7.0\Number of 1 Bits.runtimeconfig.json
+d:\Projects\TopSWE\Number of 1 Bits\bin\Debug\net7.0\Number of 1 Bits.dll
+d:\Projects\TopSWE\Number of 1 Bits\bin\Debug\net7.0\Number of 1 Bits.pdb
+d:\Projects\TopSWE\Number of 1 Bits\obj\Debug\net7.0\Number of 1 Bits.csproj.AssemblyReference.cache
+d:\Projects\TopSWE\Number of 1 Bits\obj\Debug\net7.0\Number of 1 Bits.GeneratedMSBuildEditorConfig.editorconfig
+d:\Projects\TopSWE\Number of 1 Bits\obj\Debug\net7.0\Number of 1 Bits.AssemblyInfoInputs.cache
+d:\Projects\TopSWE\Number of 1 Bits\obj\Debug\net7.0\Number of 1 Bits.AssemblyInfo.cs
+d:\Projects\TopSWE\Number of 1 Bits\obj\Debug\net7.0\Number of 1 Bits.csproj.CoreCompileInputs.cache
+d:\Projects\TopSWE\Number of 1 Bits\obj\Debug\net7.0\Number of 1 Bits.dll
+d:\Projects\TopSWE\Number of 1 Bits\obj\Debug\net7.0\refint\Number of 1 Bits.dll
+d:\Projects\TopSWE\Number of 1 Bits\obj\Debug\net7.0\Number of 1 Bits.pdb
+d:\Projects\TopSWE\Number of 1 Bits\obj\Debug\net7.0\Number of 1 Bits.genruntimeconfig.cache
+d:\Projects\TopSWE\Number of 1 Bits\obj\Debug\net7.0\ref\Number of 1 Bits.dll

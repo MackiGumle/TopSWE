@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Projects\\TopSWE\\Power of Three\\Power of Three.csproj": {}
+    "D:\\Projects\\TopSWE\\Power of Three\\Power of Three.csproj": {}
   },
   "projects": {
-    "d:\\Projects\\TopSWE\\Power of Three\\Power of Three.csproj": {
+    "D:\\Projects\\TopSWE\\Power of Three\\Power of Three.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Projects\\TopSWE\\Power of Three\\Power of Three.csproj",
+        "projectUniqueName": "D:\\Projects\\TopSWE\\Power of Three\\Power of Three.csproj",
         "projectName": "Power of Three",
-        "projectPath": "d:\\Projects\\TopSWE\\Power of Three\\Power of Three.csproj",
+        "projectPath": "D:\\Projects\\TopSWE\\Power of Three\\Power of Three.csproj",
         "packagesPath": "C:\\Users\\maste\\.nuget\\packages\\",
-        "outputPath": "d:\\Projects\\TopSWE\\Power of Three\\obj\\",
+        "outputPath": "D:\\Projects\\TopSWE\\Power of Three\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
